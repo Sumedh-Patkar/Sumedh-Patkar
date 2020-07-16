@@ -1,10 +1,11 @@
-### Hi there 👋
+![Hey](https://github.com/Sumedh-Patkar/Sumedh-Patkar/blob/master/black_bg-04.jpeg)
 
 <!--
 **Sumedh-Patkar/Sumedh-Patkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
