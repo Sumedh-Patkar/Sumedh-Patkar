@@ -26,7 +26,8 @@ I have gained tremendous interest in Statistics lately, and I am exploring the f
 
 I am currently looking for a Summer Internship in the Software Engineering area. I am also open to roles in the Data Science field.  
 
-I can be contacted at [sumedh.patkar19@gmail.com](mailto:sumedh.patkar19@gmail.com)
+**Email:** I can be contacted at [sumedh.patkar19@gmail.com](mailto:sumedh.patkar19@gmail.com)
+
 ---
 
 <!--
