@@ -21,8 +21,8 @@ I am currently a Graduate student at North Carolina State University, pursuing a
 
 I have gained tremendous interest in Statistics lately, and I am exploring the field and trying to do a few projects.
 
-👑 My favorite project is FACTs [link](https://github.com/Sumedh-Patkar/BenchmarkingDiffTool), a project that I built at Marvell Semiconductor with the Application benchmarking team. The documentation for it will be updated soon.
-💡 The project that had the most unknowns/challenges - Bucky - A voice controlled semi-autonomous object delivery robot 🏎️. I built it in my junior year along with my project teammates at Espressif Systems. Here's the code [link](https://github.com/Ronit-j/Bucky) and [some documentation](https://docs.google.com/document/d/1F9a7XMYrP_Ipbk7eHiBAKLD-HhrGJjSO3n7lAkVn6Kw/edit?usp=sharing)
+👑 My favorite project is FACTs [link](https://github.com/Sumedh-Patkar/BenchmarkingDiffTool), a project that I built at Marvell Semiconductor with the Application benchmarking team. The documentation for it will be updated soon.  
+💡 The project that had the most unknowns/challenges - Bucky - A voice controlled semi-autonomous object delivery robot 🛻. I built it in my junior year along with my project teammates at Espressif Systems. Here's the code [link](https://github.com/Ronit-j/Bucky) and [some documentation](https://docs.google.com/document/d/1F9a7XMYrP_Ipbk7eHiBAKLD-HhrGJjSO3n7lAkVn6Kw/edit?usp=sharing)
 
 I am currently looking for a Summer Internship in the Software Engineering area. I am also open to roles in the Data Science field.  
 
